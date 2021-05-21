@@ -1,0 +1,24 @@
+h4 {
+    color: #fff;
+    font-size: 1.25rem;
+    font-weight: 200;
+}
+
+i {
+    margin-right: 4px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.25rem;
+    font-weight: 200;
+}
+
+a:hover {
+    color: rgb(182, 182, 182);
+}
+
+.navbar-color {
+    background-color: #032e49;
+}

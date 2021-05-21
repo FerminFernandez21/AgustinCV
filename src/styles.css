@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+h1,
+h2,
+h3,
+p {
+    font-family: 'KoHo', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.align {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

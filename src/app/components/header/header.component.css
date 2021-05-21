@@ -1,0 +1,26 @@
+h1,
+h2,
+p {
+    color: #fff;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1rem;
+}
+
+.fondo {
+    background-color: #064870;
+    height: 20rem;
+}
+
+.align {
+    justify-content: space-between;
+}
